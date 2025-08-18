@@ -1,0 +1,16 @@
+name: Update Badge Progress
+
+on:
+  push:
+    paths:
+      - 'progress.json'
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update Progress Badge
+        run: echo "Progress JSON updated, badges will reflect latest values."
