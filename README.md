@@ -14,6 +14,10 @@
 - **Belajar Dasar Git dengan GitHub**  
   ![Belajar Dasar Git](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/git.json)
 
+- **Belajar Dasar AI**  
+  ![Belajar Dasar AI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/dasar-ai.json)
+
+
 ---
 
 ### 🏆 Badge Prestasi
