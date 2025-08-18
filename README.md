@@ -14,11 +14,9 @@
 - **Belajar Dasar Git dengan GitHub**  
   ![Belajar Dasar Git](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress.json&label=Belajar%20Dasar%20Git&color=red&query=%24.Belajar%20Dasar%20Git)
 
-
 ### 🏆 Badge Prestasi
 ![Dicoding](https://img.shields.io/badge/Certified-Dicoding-blue)
 ![Accenture](https://img.shields.io/badge/Accenture-Program-success)
-
 
 ---
 
