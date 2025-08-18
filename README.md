@@ -6,13 +6,19 @@
 **Mengikuti Program Asah Led by Dicoding & Accenture**
 
 - **Memulai Dasar Pemrograman untuk Menjadi Pengembang Software**  
-  ![Memulai Dasar Pemrograman](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress.json&label=Memulai%20Dasar%20Pemrograman&color=brightgreen&query=%24.Memulai%20Dasar%20Pemrograman)
+  ![Memulai Dasar Pemrograman](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/memulai.json)
 
 - **Pengenalan ke Logika Pemrograman (Programming Logic 101)**  
-  ![Logika Pemrograman](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress.json&label=Logika%20Pemrograman&color=orange&query=%24.Logika%20Pemrograman)
+  ![Logika Pemrograman](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/logika.json)
 
 - **Belajar Dasar Git dengan GitHub**  
-  ![Belajar Dasar Git](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress.json&label=Belajar%20Dasar%20Git&color=red&query=%24.Belajar%20Dasar%20Git)
+  ![Belajar Dasar Git](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/git.json)
+
+---
+
+### 🏆 Badge Prestasi
+![Dicoding](https://img.shields.io/badge/Certified-Dicoding-blue)
+![Accenture](https://img.shields.io/badge/Accenture-Program-success)
 
 ---
 
