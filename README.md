@@ -17,6 +17,9 @@
 - **Belajar Dasar AI**  
   ![Belajar Dasar AI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/dasar-ai.json)
 
+- **Memulai Pemrograman dengan Python**  
+  ![Pemrograman Python](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/memulai-python.json)
+
 
 ---
 
