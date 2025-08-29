@@ -23,8 +23,6 @@
 - **Belajar Machine Learning untuk Pemula**  
   ![Machine Learning Pemula](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/ml-pemula.json)
 
-- **Belajar Machine Learning untuk Pemula**
-  ![Machine Learning Pemula](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/ml-pemula.json)
 
 
 ---
