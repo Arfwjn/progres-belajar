@@ -20,6 +20,9 @@
 - **Memulai Pemrograman dengan Python**  
   ![Pemrograman Python](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/memulai-python.json)
 
+- **Belajar Machine Learning untuk Pemula**
+  ![Machine Learning Pemula](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Arfwjn/progres-belajar/main/progress/ml-pemula.json)
+
 
 ---
 
